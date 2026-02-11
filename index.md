@@ -8,7 +8,7 @@ This repository contains write-ups of cryptography challenges solved during CTF 
 
 ## 🏆 picoCTF 2025
 
-- [Crack the Power](picoctf/Crack-the-power.md)
+- [Crack the Power](picoctf/crack-the-power.md)
 
 ---
 
