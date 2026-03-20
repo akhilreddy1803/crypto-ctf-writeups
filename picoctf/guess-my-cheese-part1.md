@@ -148,7 +148,7 @@ a_inv = pow(a, -1, 26)
 print(decrypt("YOUR_CIPHERTEXT_HERE", a_inv, b))  # Replace with target ciphertext
 ```
 
-![Python Script Output](screenshots/Screenshot_2026-03-20_140637.png)
+![Python Script Output](screenshots/ssscriptpy.png)
 
 ---
 
