@@ -9,6 +9,7 @@ This repository contains write-ups of cryptography challenges solved during CTF 
 ## 🏆 picoCTF 2025
 
 - [Crack the Power](picoctf/crack-the-power.md)
+- [Guess my cheese part-1](picoctf/guess-my-cheese-part1.md)
 
 ---
 
